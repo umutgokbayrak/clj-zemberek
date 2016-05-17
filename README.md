@@ -1,10 +1,14 @@
 # clj-zemberek
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure wrapper library for Zembere (NLP for Turkish language)
+
+
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.umutgokbayrak/clj-zemberek.svg)](https://clojars.org/org.clojars.umutgokbayrak/clj-zemberek)
+
 
 ## Usage
 
-FIXME
+See tests for samples
 
 ## License
 
