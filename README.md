@@ -1,6 +1,6 @@
 # clj-zemberek
 
-A Clojure wrapper library for Zembere (NLP for Turkish language)
+A Clojure wrapper library for Zemberek (NLP for Turkish language)
 
 
 [![Clojars Project](https://img.shields.io/clojars/v/org.clojars.umutgokbayrak/clj-zemberek.svg)](https://clojars.org/org.clojars.umutgokbayrak/clj-zemberek)
