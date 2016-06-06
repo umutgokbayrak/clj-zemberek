@@ -8,7 +8,9 @@ A Clojure wrapper library for Zemberek (NLP for Turkish language)
 
 ## Usage
 
-See tests for samples
+Visit [leiningen](http://www.leiningen.org) web site to learn, how to run a Clojure project. 
+
+See tests for samples.
 
 ## License
 
